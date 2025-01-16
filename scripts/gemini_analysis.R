@@ -17,7 +17,7 @@ perform_analysis = function() {
   config_df = load_prompt_configs()
 
   # 論文ファイルとテンプレートファイルの取得
-  paper_files = list.files("prompts/papers", glob2rx("*.txt"), full.names = TRUE)
+  paper_files = list.files("prompts/papers", glob2rx("*.pdf"), full.names = TRUE)
   template_files = list.files("prompts/templates", glob2rx("*.txt"), full.names = TRUE)
 
   # 各論文に対して処理
