@@ -2,7 +2,7 @@
 # unless explicitly overwritten by prompt specific
 # settings
 
-model: gemini-1.5-pro
+model: gemini-1.5-flash
 
 json_mode: FALSE
 
