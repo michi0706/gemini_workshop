@@ -45,7 +45,7 @@ gemini_result_to_df = function(res, ...) {
 
 }
 
-run_gemini = function(prompt,api_key, model="gemini-1.5-pro", json_mode=FALSE, temperature=0.1, add_prompt=FALSE, verbose=TRUE) {
+run_gemini = function(prompt,api_key, model="gemini-1.5-flash", json_mode=FALSE, temperature=0.1, add_prompt=FALSE, verbose=TRUE) {
   library(httr)
   library(jsonlite)
 
@@ -102,7 +102,7 @@ run_gemini = function(prompt,api_key, model="gemini-1.5-pro", json_mode=FALSE, t
 }
 
 
-run_gemini_embedding = function(text,api_key, model="gemini-1.5-pro",  add_text=FALSE, verbose=TRUE) {
+run_gemini_embedding = function(text,api_key, model="gemini-1.5-flash",  add_text=FALSE, verbose=TRUE) {
   library(httr)
   library(jsonlite)
 
