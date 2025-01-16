@@ -1,4 +1,4 @@
 extract_basic:
-  model: "gemini-1.5-pro"
+  model: "gemini-1.5-flash"
   temperature: 0.1
   json_mode: true
