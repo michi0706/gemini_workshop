@@ -58,10 +58,7 @@ Format your response as JSON with the following structure:
     }
   ]
 }
-content_copy
-download
- Use code with caution.
-Json
+
 2. Results Table Identification Prompt
 
 Please analyze all tables in this paper and:
@@ -126,10 +123,7 @@ Format your response as JSON with the following structure:
     }
   ]
 }
-content_copy
-download
- Use code with caution.
-Json
+
 3. Coefficient Extraction Prompt
 
 Using the output from ##2, extract coefficients from ALL tables identified as 'main_results'. For each main results table, extract coefficients from ALL columns and ALL specifications, including:
@@ -174,10 +168,7 @@ Format as:
     }
   ]
 }
-content_copy
-download
- Use code with caution.
-Json
+
 4. Paper Summary Prompt
 
 Please provide a structured summary of this academic paper with the following information:
