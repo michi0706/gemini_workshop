@@ -1,0 +1,76 @@
+以下の論文の序章を分析し、主要な要素を抽出してください：
+
+{paper_text}
+
+抽出すべき要素：
+1. 研究背景：現状の課題と研究の必要性
+2. 研究目的：明らかにしたい点と解決したい問題
+3. 研究の意義：期待される成果と貢献
+4. 研究方法：主なアプローチと手法
+5. 論文構成：章立ての概要
+6. キーワード：重要な用語と定義
+7. 先行研究との関係
+
+できるだけ原文の該当箇所を引用しながら、各要素を抽出してください。
+次のような構造を持ったJSONフォーマットで出力してください：
+{
+    "research_background": {
+        "current_issues": [],
+        "necessity": "",
+        "significance": ""
+    },
+    "research_purpose": {
+        "objectives": [],
+        "problems_to_solve": []
+    },
+    "significance": {
+        "expected_outcomes": [],
+        "contributions": {
+            "academic": [],
+            "practical": []
+        },
+        "novelty": ""
+    },
+    "methodology": {
+        "approach": "",
+        "main_methods": [],
+        "theoretical_framework": ""
+    },
+    "paper_structure": {
+        "chapters": [
+            {
+                "chapter_number": "",
+                "title": "",
+                "summary": ""
+            }
+        ],
+        "logical_flow": ""
+    },
+    "key_concepts": [
+        {
+            "term": "",
+            "definition": "",
+            "context": ""
+        }
+    ],
+    "prior_research": {
+        "related_works": [],
+        "research_gap": "",
+        "positioning": ""
+    },
+    "citations": {
+        "direct_quotes": [
+            {
+                "quote": "",
+                "page": "",
+                "context": ""
+            }
+        ]
+    }
+}
+
+各要素について：
+1. できるだけ原文から直接引用を含めてください
+2. 空の値は許容されますが、可能な限り全ての項目を埋めてください
+3. 配列の要素は必要に応じて追加可能です
+4. 記述は簡潔かつ具体的にしてください
