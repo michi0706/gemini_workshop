@@ -1,0 +1,2322 @@
+Journal of Development Economics 130 (2018) 33–44
+
+Contents lists available at ScienceDirect
+
+Journal of Development Economics
+
+j o u r n a l h o m e p a g e : w w w . e l s e v i e r . c o m / l o c a t e / d e v e c
+
+Abolishing user fees, fertility choice, and educational attainment☆
+
+Takahiro Ito a, Shinsuke Tanaka b,*
+a Graduate School of International Cooperation Studies, Kobe University, 2-1 Rokkodai-cho, Nada-ku, Kobe 657-8501, Japan
+b The Fletcher School, Tufts University, 160 Packard Avenue, Medford, MA 02155, USA
+
+A R T I C L E I N F O
+
+A B S T R A C T
+
+Keywords:
+User fees
+Fertility
+Education
+South Africa
+
+JEL codes:
+J13
+I15
+O15
+I18
+
+This study examines the effect of abolishing user fees from the maternal and child health (MCH) services on child
+quantity and quality in South Africa in the post-apartheid era. Exploiting exogenous variation in exposure to the
+policy effect, we ﬁnd that the policy resulted in lower fertility in households and greater educational attainment of
+children a decade later. The absence of the effects among children not subject to the policy eliminates channels
+through heterogeneous preexisting trends or unobserved concurrent changes. The important policy implications
+are (i) the theoretical predictions of the child quantity-quality tradeoff model characterize reproductive behavior
+among parents in developing countries; and (ii) MCH policy serves as a motivating force underlying the de-
+mographic transition and human capital development.
+
+1. Introduction
+
+Universal access to high-quality maternal and child health (MCH)
+care remains as one of the most critical policy issues in low income
+countries. Despite the worldwide efforts to improve MCH as targeted by
+the Millennium Development Goals, progress is insufﬁcient and key de-
+terminants of MCH remains unaddressed in many settings, resulting in
+estimated 5.9 million child deaths under age ﬁve, primarily during in-
+fancy, from readily preventable and treatable diseases and estimated
+303,000 maternal deaths during pregnancy and childbirth in 2015
+(UNICEF, 2015; WHO, 2015).
+
+In this study, we examine the effect of one of the largest scale MCH
+policy reforms on child quality and quantity (QQ). Namely, we focus on
+the abolition of user fees from healthcare services for pregnant mothers
+and children under 6 years old in the aftermath of the dismantlement of
+apartheid in 1994 in South Africa. The present study investigates the
+
+effects a decade later of that earlier removal of user fees on educational
+outcomes and fertility decisions. We ﬁnd that abolishing user fees from
+health services led to reduced fertility in households and increased
+educational attainment of children with a great extent of the policy
+exposure between 1993 and 2004. We conduct the robustness checks and
+falsiﬁcation tests that show the absence of the treatment effects on both
+child QQ among the cohorts not subject to the health policy, which
+eliminate potentially confounding channels such as heterogeneities in
+preexisting trends and post-reform bias arising from educational and
+other social reforms.
+
+This study contributes to two distinct strands of the literature. First,
+our study presents new evidence of the effects of MCH interventions over
+an extended period. The MCH policy we focus on is the removal of user
+fees from health services.1 Assessing the beneﬁts of free health services is
+important in its own right, as there is an increasing interest among
+development economists and policymakers in the question of whether
+
+☆ We appreciate Jenny Aker, Laurie DeRose, Andrew Foster, Paola Giuliano, Nancy Hite, Seema Jayachandran, Ryo Kambayashi, Daiji Kawaguchi, Takashi Kurosaki, Ilyana Kuziemko,
+Dilip Mookherjee, Daniele Paserman, Adam Storeygard, Rodrigo Wagner, Hiroyuki Yamada, Wesley Yin, the two anonymous referees, and numerous participants at Society of Labor
+Economists, North American Winter Meeting of the Econometric Society, Population Association of America, 2015 Japanese Economic Association Spring Meeting, Kansai Research Group
+on Development Microeconomics (KDME) Workshop, and Economic Development Workshop at Hitotsubashi University for helpful comments. Financial support from the Grant-in-Aid for
+Young Scientists (Start-up) (Grant No. 21830058) from the Japan Society for the Promotion of Science is gratefully acknowledged. The views expressed in this article are those of the
+authors and do not necessarily reﬂect those of the funding agency. All remaining errors are our own.
+
+* Corresponding author.
+
+E-mail addresses: takahiro.ito@lion.kobe-u.ac.jp (T. Ito), Shinsuke.Tanaka@tufts.edu (S. Tanaka).
+
+1 Other MCH interventions include the Matlab Health and Family Planning Program. Launched in 1977 in a rural area of Bangladesh, the program initially emphasized family planning
+services such as home delivery of contraceptives, and later added extensive maternal and child health services. See, for example, Canning and Shultz (2012), Joshi and Schultz (2013), and
+Foster and Milusheva (2014) for various program effects.
+
+https://doi.org/10.1016/j.jdeveco.2017.09.006
+Received 10 February 2017; Received in revised form 16 September 2017; Accepted 20 September 2017
+Available online 22 September 2017
+0304-3878/© 2017 Elsevier B.V. All rights reserved.
+
+T. Ito, S. Tanaka
+
+Journal of Development Economics 130 (2018) 33–44
+
+user fees should be charged or abolished from basic health services.2
+While a growing number of African countries have recently begun to
+remove user fees, such policies remain controversial due to a perceived
+tradeoff between the two opposing views – while charging even small
+fees is evidenced for substantially lowering take-ups, user fees have been
+widely adopted as a means of generating revenues vital for providing
+quality services as well as targeting individuals in need of a good and
+increase usage thereof. The introduction of such policies at the national
+level renders a rigorous assessment difﬁcult. On the one hand, the esti-
+mated effects are likely to be overstated by unobserved time factors
+(Lagarde and Palmer, 2008), while on the other hand, estimates will
+prove to be substantially understated if short-run improvements in uti-
+lization and health status continue to beneﬁt other dimensions, such as
+child quantity and quality, over an extended period of time. To date,
+there is few convincing quantitative evidence assessing the effect of MCH
+services on educational attainment.
+
+The analysis in this study overcomes such shortcomings in the liter-
+ature by exploiting salient features of South Africa's history of apartheid
+to establish causality. For more than four decades up to 1994, blacks in
+South Africa had limited political representation as well as limited ability
+to choose their place of residence. The control exercised by whites over
+the allocation of health resources, unrelated to the demand of black Af-
+ricans for these resources, resulted in little correlation between initial
+availability of health facilities and household characteristics across
+communities. This not only limits the scope of heterogeneous preexisting
+trends but also provides us with plausibly exogenous variation in the
+policy exposure. Using a similar research design, a previous study by
+Tanaka (2014) shows that the removal of user fees in South Africa in
+1994 led to substantial improvements in nutritional status among chil-
+dren in communities with a health facility relative to those without, in
+the period between 1993 and 1998.
+
+Second, this study presents empirical evidence to assess the theoret-
+ical prediction of the QQ tradeoff model. Economists have long been
+interested in explaining the historical demographic shift from high to low
+fertility rates. The stylized fact that this demographic transition has
+almost always been coupled with human capital development and eco-
+nomic growth has given rise to the theoretical conjecture of a tradeoff
+between QQ (Becker, 1960; and Becker and Lewis, 1973; Becker and
+Tomes, 1976; Hanushek, 1992; Galor and Weil, 2000; Kalemli-Ozcan,
+2002, 2003; Tamura, 2006).
+
+A number of economic theories have attributed the decline in fertility
+to historical changes in factors raising the opportunity costs of a marginal
+child, namely the price of child quantity, due, for instance, to increased
+adult wages (Becker et al., 1990; Hazan and Berdugo, 2002), or elevated
+women's status (Mincer, 1963; Galor and Weil, 1996; Lagerl€of, 2003).
+Empirical evidence regarding the interaction between quantity and
+quality has also predominantly concentrated on research contexts
+involving constraints on the quantity of children, i.e., using exogenous
+changes in the number of children parents choose to have due to unex-
+pected incidences, such as twin births or same-gender siblings (Rose-
+nzweig and Wolpin, 1980; Angrist and Evans, 1998; Angrist et al, 2005;
+Black et al., 2005; Rosenzweig and Zhang 2009) or economic incentives
+for child-bearing, such as changes in relative female wages (Schultz,
+1985, 1986) or ﬁnancial support for obstetric care (Boyer, 1989; Whit-
+tington et al., 1990; Zhang et al., 1994; Acs, 1996; Kearney, 2004; Mil-
+ligan, 2005; Laroque and Salanie, 2008; Cohen et al., 2013).
+
+We identify a speciﬁc health policy as the trigger for the demographic
+transition. The MCH policy is likely to affect prices of both child quality
+and quantity. On the one hand, increased price of child quantity due to,
+for instance, increased access to family planning and contraceptive
+methods leads to a fertility reduction. On the other hand, increased ef-
+ﬁciency in learning in an environment where low health status had been
+a major impediment to learning in school effectively lowers the price of
+quality investments, which in turn induces parents to invest more in
+human capital and reduce fertility. We know of no other study that ex-
+ploits a health care policy as a motivating factor underlying such fertility
+and human capital development process.
+
+In addition, there has been little empirical investigation regarding the
+fertility response to relaxing constraints on the quality of children. For
+example, Galor and Weil (2000) develop a uniﬁed endogenous growth
+model, in which increased returns to education due to technological
+progress are followed by reductions in fertility and increases in human
+capital investment. However, empirical evidence focusing on the fertility
+response to the quality shock is scarce, except for Bleakley and Lange
+(2009) and Aaronson et al. (2014).3 These studies focus on the U.S.
+settings, and it remains unaddressed as to the extent to which, or even
+whether, fertility can be portrayed as a matter of parental choice among
+poor households in developing countries, who are likely to confront
+different constraints such as high fertility rates, inadequate access to
+health services, and low health status to begin with. Our ﬁndings hold
+important implications for fertility behavior among parents in devel-
+oping countries by demonstrating that appropriate economic incentives
+can induce demographic transition, obviating the necessity of resorting
+to intense population policies to curb fertility growth.
+
+The remainder of the paper is structured as follows. Section 2 de-
+scribes the historical background of health policy and education in South
+Africa and the effect of new health policy on nutritional status among
+children. Section 3 illustrates the conceptual framework that highlights
+the key mechanisms, through which the MCH policy affects fertility and
+educational attainment via its impacts on the prices of child quantity and
+quality investments. Section 4 describes the dataset used in the main
+analysis, its summary statistics as initial evidence, an econometric
+framework, and discusses the validity of its identiﬁcation assumptions.
+Section 5 reports empirical results from the main and falsiﬁcation/
+robustness analyses, and Section 6 explores and tests additional alter-
+native hypotheses. Section 7 concludes.
+
+2. Background
+
+2.1. History of health policy and education in South Africa
+
+Apartheid in South Africa has an enduring legacy as one of the most
+discriminatory regimes in modern history. In a society characterized by
+extreme racial segregation, black Africans constituted the poorest and
+most underserved group, suffering the greatest oppression by whites in
+all aspects of their lives. For the purpose of our research context, two
+salient features of that regime were: restricted residential choice and
+unequal allocation of resources among black African communities.
+
+The Bantu Authorities Act of 1951 conﬁned black Africans within
+impoverished so-called “homelands,” not only externally determining
+their place of residence but also prohibiting them from freely migrating
+within the country. Further, the white minority in urban areas controlled
+almost all resources without representation from the black majority. As a
+consequence, few resources were allocated to black African communities,
+
+2 Whether free distribution or cost-sharing achieves an efﬁcient allocation of basic
+health goods has recently been debated. Recent evidence, primarily derived from ran-
+domized controlled trials, suggests that charging even a small price substantially reduces
+usage of health goods (i.e., insecticide-treated nets, deworming drugs, or water disinfec-
+tant), due in large part to resultant crowding out of the poor in need of these goods
+(Kremer and Miguel, 2007; Holla and Kremer, 2009; Cohen and Dupas, 2010; Ashraf et al.,
+2010; J-PAL, 2011). These studies lend strong support to free distribution of health goods
+over cost-sharing as a way to enhance equity in access to health goods and services and to
+improve health status.
+
+3 Bleakley and Lange (2009) consider the hookworm eradication in the U.S. as the
+increased return to child quality when the burden of the disease considerably depressed
+the returns to learning. Along with the ﬁndings in Bleakley (2007), they show that a
+fertility decline was at the root of substantial improvements in school attendance and
+literacy a decade after the intervention took place. Also, Aaronson et al. (2014) show a
+smaller number of children along the intensive margin in response to greater schooling
+opportunities for children.
+
+34
+
+T. Ito, S. Tanaka
+
+Journal of Development Economics 130 (2018) 33–44
+
+and the meager resources thus allocated were distributed in a quasi-
+random fashion unrelated to local demand. Under these circumstances,
+the overriding issue among children was the disparity and inequality in
+nutritional status and educational performance across
+races and
+geographical areas.
+
+With respect to health, the absence of coordination and integration
+among as many as eighteen central and regional departments of health
+resulted in unequal distribution of health resources across and within
+provinces. In addition, there was neither a comprehensive health policy
+nor a central institution to coordinate health plans and practices at the
+national level. As a result, black Africans suffered from substantially low
+health status due to poor access to health services, constrained by costly
+out-of-pocket payments for health services as well as by a dearth of fa-
+cilities, doctors, and medicines in the public health sector.
+
+The new democratic government established in 1994 undertook
+immediate efforts to ensure equal access to public services. The most
+remarkable policy in the health sector was the abolition of user fees
+from healthcare services to pregnant women and to children under 6
+years of age at public health facilities such as hospitals and clinics.
+These services included pre- and post-natal services until 42 days after
+delivery as well as primary care services to children, such as maternal
+nutrition, breastfeeding assistance, nutrition education, child immuni-
+zation, growth monitoring, nutritional promotion, and micronutrient
+supplementation.
+
+Among black Africans, for whom the cost of medical services had
+been a major impediment to accessing treatment, the abolition of user
+fees contributed to substantial increases in the utilization of health fa-
+cilities among pregnant women and children under 6 years of age
+(McCoy, 1996; Department of Health, 1998; Schneider and Gilson, 1999;
+Wilkinson et al., 2001; Cooper et al., 2004; Morestin and Ridde, 2009).
+For instance, the ﬁndings by a national household survey conducted in
+1993 by the Community Agency for Social Enquiry (CASE) (1995) indi-
+cate that “not affordable” is the most common reason given by black
+families for foregoing health care (73.8%), followed by lack of trans-
+portation (11.5%). In contrast, only 23.2% of whites listed cost as a
+primary barrier. Further, 90% of black Africans had no health insurance
+in contrast with 24% of whites without any insurance.
+
+In the educational sector, on the other hand, progress in eliminating
+racial disparities was more limited, despite signiﬁcant efforts to equalize
+the allocation of government funds. Two facts are especially important
+for our research purpose. First, most black Africans continued to perform
+poorly in school due in large part to differences in school resources, fees,
+and curricula that began under apartheid (Fiske and Ladd, 2004;
+Yamauchi, 2005; van der Berg, 2007; van der Berg and Louw, 2007;
+Bhorat and Oosthuizen, 2008). Although the demise of apartheid freed
+black African students from severe restrictions on school choice, most
+remained in schools with poor infrastructure (Lam et al., 2011). This
+averts endogenous sorting of black African students across schools,
+creating little correlation between household characteristics (e.g., the
+income and educational background of parents) and the quality of
+schools their children attended (Case and Deaton, 1999).
+
+Second, the degree of variation in student performance remains high,
+even after controlling for household and school characteristics (Case and
+Deaton, 1999; Crouch and Mabogoane, 1998, 2001; Hoadley, 2007; van
+der Berg, 2007; Bhorat and Oosthuizen, 2008; van der Berg and Shep-
+herd, 2008), a phenomenon which Lam et al. (2011) call “schooling as a
+4 The weak explanatory power of school inputs and household
+lottery.”
+attributes in relation to educational performance leaves the identiﬁcation
+
+4 There are several possible explanations for such variation. On the one hand, Hoadley
+(2007) points to the frequently chaotic classroom environment as well as ineffective
+classroom and school management, and on the other hand, van der Berg and Shepherd
+(2008) attribute the problem to poor internal assessment of student performance. Lam et
+al. (2011) establish a model with evidence to support the claim that a stochastic linkage
+between actual ability and measured performance has led to high enrollment and high
+repetition rates among black African schools.
+
+of key factors contributing to better educational performance an
+open question.
+
+2.2. Free healthcare services and nutritional improvements among children
+
+Access to health services is one of the most important contributors to
+nutritional status, particularly among poor black African children who
+were not previously reached by such services.5 Tanaka (2014) provides
+three important ﬁndings for our present research context. First, he ﬁnds
+that the abolition of user fees from health services led to immediate and
+substantial improvements in nutritional status among newborns between
+1994 and 1998, allowing us to exploit such nutritional improvements as a
+shock to price of child quality investments. Second, he identiﬁes the
+source of variation in health improvements as plausibly exogenous,
+namely variation in infrastructure across communities under apartheid.
+We present similar evidence below that household characteristics are
+ex-ante similar, reﬂecting the historical fact that infrastructure was pre-
+dominantly controlled by whites unrelated to demand by black Africans.
+Third, these improvements in health status were not concentrated on the
+lower tail of the health status distribution, indicating that the mean shift
+in health status was not entirely due to shrinkage of the low health status
+cohort. The important implication is that free healthcare does not appear
+to have contributed to mortality reductions, ruling out a mechanism
+through which fertility reductions responded to the likelihood of child
+survival. We investigate the effect on mortality in greater detail in Online
+Appendix II.
+
+3. Conceptual framework
+
+Originating with Becker and Lewis (1973), the parental utility func-
+tion typically considers child quantity, n, and quality, q, in which parents
+decide the optimal n and q simultaneously:
+Max U ¼ Uðn; q; xÞ;
+where ∂U=∂k > 0, ∂2U=∂k2 < 0 for k ¼ ðn; q; xÞ and x is a set of other goods
+and services, subject to the budget constraint:
+I  πnn þ πqnq þ x
+
+where I is the household income, πnn represents ﬁxed expenditures on
+child quantity that is independent of child quality, and πqnq represents
+costs of quality investments into children (with the standard assumption
+that child quality is identical across children within family).
+The equilibrium conditions at ðn*; q*Þ highlight the marginal costs, or
+
+ 
+
+πn þ πqq*
+
+the shadow prices of quantity and quality to be;
+Un ¼ λ
+Uq ¼ λ
+
+ ¼ λpq;
+
+ ¼ λpn;
+
+πqn*
+
+ 
+
+where λ denotes the marginal utility of income. These two equations
+illustrate an important tradeoff between child quantity and quality. In
+particular, the ﬁrst equation shows that an increase in child quality, q,
+raises the marginal costs of having additional children, whereas the
+second equation shows that an increase in the number of children, n,
+
+5 Clearly another important contributor is the quality of medical services, including
+factors such as the range of medical services, the availability of drugs and equipment, the
+knowledge and skill levels of physicians and staff, and the quality of facilities. It is
+important to note here that the importance of the quality of healthcare should not be
+underestimated as the interactions between quantity and quality are key to promoting
+further improvements in public health. However, we emphasize access, or the quantity-
+side, more in a circumstance where prospective patients have poor access to begin with.
+A small increase in the utilization of health facilities from virtually zero visits should result
+in substantial improvements in health status whether we assume linearity or concavity in
+the relationship between access and nutritional status.
+
+35
+
+T. Ito, S. Tanaka
+
+Journal of Development Economics 130 (2018) 33–44
+
+raises the marginal costs of investing in child quality.
+
+Most studies have focused on pathways from quantity to quality. For
+example, reduced costs of contraceptive methods are associated with
+increases in the marginal costs of child quantity, pn, which in turn de-
+creases n, while the marginal costs of quality fall as n falls from the
+second equilibrium condition, and thus the quality of children is upgra-
+ded. Financial incentives to having additional children work in a similar
+way: a decrease in marginal costs of child quantity increases n, and thus
+increased marginal costs of quality will lead to lower quality of children.
+The literature that exploits exogenous changes in the number of children
+due, for instance, to multiple births, directly affects n, without referring
+to changes in the marginal costs of child quantity, which then leads to an
+increase in marginal costs of quality and thus a decrease in quality.
+
+In contrast, changes in child quality can also affect quantity. For
+instance,
+improvements in health status are expected to improve
+educational outcomes and lower barriers to investment in child quality
+(in a typical environment where low health status is a major impediment
+to learning). This effectively lowers the marginal costs of quality in-
+vestments, pq, which should increase the level of such investment.
+Increased investment in quality is associated with increased marginal
+costs of quantity, as described in the ﬁrst equilibrium condition, and thus
+fertility is expected to fall.6
+
+4. Research design
+
+4.1. Data sources
+
+We use longitudinal datasets from the KwaZulu-Natal Income Dy-
+namics Study (KIDS).7 KwaZulu-Natal province is the second largest
+province in South Africa, representing approximately 20% of total pop-
+ulation in 2011, the majority of whom are black Africans. Importantly,
+KwaZulu-Natal province shares common attributes with other former
+homelands, such as high rates of poverty and absence of basic services
+(Klasen, 1997; Leibbrandt and Woolard, 1999; May et al., 2000).
+
+We merge the ﬁrst wave in 1993 (hereafter KIDS93) and the third
+wave in 2004 (hereafter KIDS04) to trace a-decade long adjustments. The
+ﬁrst wave was conducted as part of the ﬁrst comprehensive national
+household survey, the Project for Statistics and Living Standards and
+Development, and thus it provides information prior to the new health
+policy reform. The subsequent waves in the post-reform period revisited
+only black Africans and Indians in KwaZulu-Natal province. Although the
+second wave was conducted in 1998, the longer period of time between
+the ﬁrst and the third waves enables us to trace children from early
+childhood to primary school age. These datasets report detailed infor-
+mation on key variables, including educational attainment and the
+number of children, as well as other important individual and household
+characteristics, such as age, gender, and education of all household
+members. Moreover, we can link the household surveys to the commu-
+nity surveys, which report infrastructure information, such as the number
+and types of medical and public school facilities in communities.8
+
+The sample used in the main analysis is restricted to black Africans
+only in an effort to remove heterogeneities that may cause bias in our
+estimates. This is appropriate as the goal of the health policy was to reach
+out to disadvantaged groups, making black Africans particularly subject
+to the effect of the policy.
+
+6 Precisely speaking, fertility falls in response to increased educational return if child
+to the cost of child quality (i.e., ∂n=∂pq > 0 if
+quality is elastic with respect
+½∂q=∂pq½pq=q <   1. Alternatively, the optimal number of children increases when the cost
+of educating a child falls if ½∂q=∂pq½pq=q >   1). See Galor (2012) for the discussions.
+7 For more detailed description of KIDS, see May et al. (2000), and May et al. (2007).
+Also note that we use updated release version 2 of KIDS, which is free from some clusters
+that suffered from data fabrication.
+
+8 Throughout the paper, we use the term “community” to refer to a census enumerator
+sub-district, the smallest geographical unit at which we can identify the health/education
+facility information.
+
+Table 1
+Infrastructure information.
+
+Health Facilities
+Hospital
+Dispensary
+Clinic
+Family planning clinic
+Maternity home
+Educational Facilities
+Primary school
+Secondary school
+High-treatment region
+
+Mean
+
+0.018
+0.054
+0.411
+0.357
+0.089
+
+1.857
+0.821
+0.411
+
+Std. Dev.
+
+0.134
+0.227
+0.496
+0.483
+0.288
+
+1.920
+0.606
+0.496
+
+Notes: This table provides the numbers of health and educational facilities in the commu-
+nities from KIDS93. The number of observations is 56. The high-treatment region indicates
+the share of communities that had at least one clinic, dispensary, or hospital as of 1993.
+
+4.2. Summary statistics
+
+The baseline information regarding community-level infrastructure
+as of 1993 is presented in Table 1. Observations are at the community
+level. The ﬁrst column shows the types of facilities, the second column
+the average number of each facility in the community, and the third
+column its standard deviation.
+
+Regarding the health facilities, there was either only one or zero fa-
+cility for each type in each community in 1993, and thus the mean value
+of clinics, for instance, indicates that 41% of communities had clinical
+availability as well as 0.41 clinics existed on average per community. On
+the other hand, dispensaries or hospitals barely existed in black African
+communities. These observations are consistent with evidence that
+clinics served as the main facility where black Africans received pre-natal
+services and initial treatments. For our purposes, as discussed below, the
+high-treatment region is deﬁned as communities with at least one clinic,
+hospital, or dispensary; all other communities are deﬁned as the low-
+treatment region. The last row indicates that 41% of the total 56 com-
+munities (equivalent to 23 communities) constitute the high-treatment
+region. Regarding the educational facilities, the table shows 1.86 pri-
+mary schools and 0.82 secondary schools on average per community. It is
+clear that
+these communities lacked both educational and health
+facilities.
+
+Panel A of Table 2 presents summary statistics on variables used for
+child quality analyses for the sample of black African children aged 7 to
+14, using observations from KIDS93 and those from KIDS04 separately.
+Note that those aged 14 or younger in 2004 were 4 years old or younger
+in 1994 and thus had full exposure to free health services including a
+prenatal period. We use educational attainment, that is, grade level
+completed, to measure the parental investments in child quality. It is
+worth noting that the use of educational attainment instead of years in
+school avoids bias arising from grade repetition, which is highly preva-
+lent among these students. Average educational attainment is about 3
+years for cohorts of children with an average age of 10 years old in 1993,
+whereas average educational attainment had increased to 3.8 years for
+the same age group in 2004.
+
+Panel B of Table 2 presents summary statistics on key variables for
+child quantity for the sample of black African women aged 31 to 45, who
+corresponds to the reproductive ages of 21 to 35 at the time of the policy
+change. A comparison of children aged 8 or less between 1993 and 2004
+measures the fertility dynamics in the post-reform period. We also pre-
+sent children aged 11 to 19 to characterize a fertility trend in the pre-
+reform period. On average, there were 0.95 children aged 8 or less and
+1.25 children aged 11 to 19 per woman in 1993. Both of these ﬁgures had
+fallen in 2004; there were 0.74 children and 1.06 children per woman,
+respectively.9 The reduction in fertility even among cohorts born before
+
+9 Online Appendix IV presents a ﬁgure that shows a decline in the overall fertility trend
+
+in this time period.
+
+36
+
+T. Ito, S. Tanaka
+
+Table 2
+Summary statistics.
+
+Panel A: Child quality
+Educational attainment
+Age
+Female dummy
+First-born dummy
+Birth order: Missing
+Mother's education
+Mother's education: Missing
+Mother's age
+Mother's age: Missing
+Ave. yrs. of adult members' education
+Ave. yrs. of adult members' educ.: Missing
+# of adult members
+Panel B: Child quantity
+# of children aged 8 or less
+# of children aged 11 to 19
+Age
+Yrs. of education
+Yrs. of education: Missing
+Ave. yrs. of adult members' education
+Ave. yrs. of adult members' educ.: Missing
+# of adult members
+
+N
+
+1,798
+1,798
+1,798
+1,532
+1,798
+1,385
+1,798
+1,452
+1,798
+1,753
+1,798
+1,798
+
+659
+659
+659
+659
+659
+588
+659
+659
+
+KIDS93
+
+Mean
+
+Std. Dev.
+
+3.032
+10.318
+0.485
+0.253
+0.148
+5.323
+0.230
+37.23
+0.192
+4.430
+0.025
+2.763
+
+0.953
+1.253
+37.21
+6.149
+0.000
+4.671
+0.108
+3.129
+
+2.116
+2.354
+0.500
+0.435
+0.355
+3.725
+0.421
+8.451
+0.394
+3.288
+0.156
+1.497
+
+1.115
+1.265
+4.223
+3.887
+0.000
+3.499
+0.310
+1.610
+
+Journal of Development Economics 130 (2018) 33–44
+
+N
+
+1,818
+1,818
+1,818
+1,431
+1,818
+1,338
+1,818
+1,182
+1,818
+1,780
+1,818
+1,818
+
+740
+740
+740
+730
+740
+620
+740
+740
+
+KIDS04
+
+Mean
+
+Std. Dev.
+
+3.827
+10.622
+0.503
+0.412
+0.213
+7.250
+0.264
+37.85
+0.350
+5.884
+0.021
+2.642
+
+0.735
+1.062
+37.40
+8.005
+0.014
+6.432
+0.162
+3.008
+
+2.361
+2.286
+0.500
+0.492
+0.409
+4.406
+0.441
+8.243
+0.477
+3.869
+0.143
+1.541
+
+0.878
+1.125
+4.267
+4.344
+0.116
+4.038
+0.369
+1.691
+
+Notes: This table reports the number of observation, the mean, and the standard deviation of variables used in the child quality analysis (Panel A) and quantity analysis (Panel B). Ob-
+servations are at the individual level. The sample in the quality analysis consists of children aged 7 to 14, and the sample in the quantity analysis consists of women aged 31 to 45.
+
+1994 suggests that a simple comparison of fertility over time may
+confound a preexisting time trend. We describe our econometric frame-
+work that constructs a counterfactual and adequately controls for a time
+trend below.
+
+4.3. Econometric framework
+
+Two important sources of variation constitute our empirical frame-
+work to identify the effect of free health services on child quantity and
+quality outcomes. First, user fees for health services were abolished in
+1994, allowing us to observe pre-reform conditions from KIDS93 and to
+observe outcomes a decade later in the post-reform period from KIDS04.
+Second, although the policy was implemented simultaneously at the
+national level, households in communities with existing health facilities
+had greater intensity of exposure because they gained immediate access
+to healthcare services, while those in communities without any health
+facility had to travel long distances to receive treatment or wait until
+facilities were built in their own communities.10 Thus, we deﬁne the
+high-treatment region as communities where there was at least one
+medical institution, in particular a clinic, hospital, or dispensary, in
+1993.11 We use the interaction of these two variations in a reduced-form
+equation of the difference-in-differences (DD) framework to measure the
+effect of free health services on outcomes of interests.
+
+Speciﬁcally, we estimate;
+Yickt ¼ α0 þ α1ðHighc  PosttÞ
+
+ Postt
+α3 þ γ
+
+α2 þ  
+
+þ X
+
+0
+W
+c
+
+0
+it
+
+þ μc þ εickt;
+
+k
+
+(1)
+
+in which i indexes individual, c denotes community, k denotes birth
+cohort, t denotes year, Highc ¼ 1 for the high-treatment region, and
+Postt ¼ 1 for t ¼ 2004. A vector of variables, Xit, controls for key
+
+10 Indeed, the government reported that the construction of health facilities in Kwazulu-
+Natal province was slowed by political instability and violence (Cameron, 1996; Khan
+et al., 2006), delaying even the ﬁrst democratic election until 1996. Such evidence sup-
+ports our assertion that communities that did not have health facilities in 1993 continued
+to have no health facilities for several years afterwards, creating variation in access to
+healthcare services.
+11 Other types of medical facilities include family planning clinics and maternity homes.
+Access to these facilities may also explain exposure to the free health services. We present
+in Online Appendix II the results using various alternative measures of the treatment.
+
+37
+
+individual and household characteristics.12 The community characteris-
+tics (Wc) control for the numbers of primary and secondary schools, post
+ofﬁces, banks, and regular markets; distances to each of these facilities;13
+and (log of) population in 1993; all of which are interacted with the post
+dummy, addressing the concern that there may be differential trends in
+the outcome variable correlated with baseline community characteristics
+in 1993. Additionally, we include the community ﬁxed effects, μc, which
+help purge any time-invariant community characteristics, and birth-year
+cohort ﬁxed effects, γk, to account for year-speciﬁc shocks common
+across all individuals within a birth cohort. All standard errors are clus-
+tered at the community level, allowing possible correlations over time
+within communities.
+
+The outcome of interest for the quality analysis is educational
+attainment by child i aged between 7 and 14.14 In calculating educational
+attainment, we focus on the number of years based on completed grades,
+rather than the actual number of years in school, as the former should
+most reﬂect educational performance or grade progression in an envi-
+ronment where grade repetition is highly common.
+
+The outcome of interest for the quantity analysis is the number of
+children aged 8 or less that woman i had given birth to for the sample of
+those aged 31–45 years old. Since the policy was reformed in 1994, these
+
+12 For the quality analysis, the individual level of variables control for a female dummy
+and a ﬁrst-born dummy, while the household level of variables includes mother's educa-
+tion, mother's age, the average educational attainment among adult members, the number
+of adult members, (log of) total monthly income, and dummies that indicate missing
+values for each variable. The deﬁnition of “adult members” should be considered with
+care. If siblings of our sample are included as adult members, adult members' education
+may suffer from bias due to endogeneity, since there is a possibility that siblings' education
+level and our outcomes (children's quantity and quality) are determined simultaneously.
+To avoid this possibility, we deﬁne adult members as those over 30 years of age. For the
+quantity analysis, the individual-level variables include educational attainment and the
+household-level variables include the average educational attainment of adult household
+members (aged 30 or above), the number of adult household members, (log of) total
+monthly income, and dummies that indicate missing values for each variable.
+13 Note that distance to a facility is asked only when there is no such facility in the
+community, and thus we assign zero to distance when a facility sits in the community.
+There are a few communities that do not report distance although no primary or secondary
+school exists in the community. We include dummies that indicate missing values for these
+cases. There is no such case for post ofﬁce, bank, or regular market.
+14 These cohorts correspond to children in primary school and those in KIDS04 were not
+old enough in 1994 to be ineligible to the free health services.
+
+T. Ito, S. Tanaka
+
+Journal of Development Economics 130 (2018) 33–44
+
+children from KIDS04 indicate post-reform fertility, whereas the same
+age groups from KIDS93 provide analogous information in the pre-
+reform period.15
+
+To address the concern that the fertility variable might be biased by
+child deaths for these age groups, two pieces of evidence are important.
+First, Tanaka (2014) presents evidence that the relative increase in
+nutritional improvements in the high-treatment region due to increased
+access to health services is not concentrated on the lower tail of the
+distribution. Instead, the reductions in the proportion of children with
+extremely low nutritional status were similar between the two regions.
+This is indeed not surprising because the services children obtained were
+consultations or relatively simple treatments such as growth monitoring
+and curative services upon being sick. These services were likely to have
+affected the nutritional status among children while they are less likely to
+have resulted in substantial reductions in mortality (which typically re-
+sponds only to larger-scale interventions).16 Second, we present further
+evidence in Online Appendix II that mortality reductions were similar
+using available data.
+
+The parameter of interest, α1, essentially measures the contribution of
+free health services to the effects on child quality and quantity outcomes
+across communities with distinct intensity of access to health facilities
+and services (equivalently distinct exposure to the policy reform). The
+estimated effects would be biased if there were unobserved heteroge-
+neities across these communities that were correlated with the evolu-
+tional path of the outcomes. We discuss the validity of such identiﬁcation
+assumptions in the following subsection.
+
+4.4. Validity of the identiﬁcation assumptions
+
+The internal validity of our identiﬁcation strategy hinges on the
+assumption that the availability of health facilities is plausibly exoge-
+nously determined. This is less likely to hold in contexts where rich
+households/communities can exert greater political power to bring in
+more resources. South Africa under apartheid, however, provides a rare
+case where this assumption is plausible because whites allocated re-
+sources to black Africans' communities in a plausibly random manner,
+over which black Africans had no control (Case and Deaton, 1999).17
+Table 3 provides testable implications to support this assertion. We
+conduct the balancing test to investigate the correlations between the
+treatment status and various individual, household, and community
+characteristics in the baseline sample from KIDS93.18 Signiﬁcant
+
+15 Ideally, a precise history of childbirths and pregnancies over the 10-year period would
+yield a more exact measurement of fertility. Because the pregnancy history questions in
+both KIDS93 and KIDS04 do not report the year of pregnancy and suffer from low response
+rates (about 21% of women did not answer the questions), we infer fertility using the
+number of children aged 8 or less from the family roster.
+16 Also note that Tanaka (2014) shows some decrease in nutritional status among older
+children, i.e. those who were not entitled to free healthcare, due to declining quality of
+services and the low morale of health providers. This suggests that little in the way of
+technological advancements that could have affected all patients, regardless of age, took
+place.
+17 Case and Deaton (1999) present evidence that school quality, measured by
+pupil-teacher ratios, which was extensively dispersed across black districts immediately
+before the end of apartheid, is not associated with socioeconomic characteristics among
+black families.
+18 Note that we use the entire sample when conducting the balancing test. The use the
+whole sample presents a better understanding of the overall community/households/in-
+dividual characteristics. The purpose of Table 3 is to highlight the comparison of extensive
+characteristics to test that high- and low-treatment communities are similar in the pre-
+reform period. The use of the whole sample achieves the goal. We present analogous
+evidence using only the sample used in the analysis (i.e., the sample of quantity analysis in
+Panel B and the sample of quality analysis in Panel C) in Online Appendix I. The ﬁndings
+are essentially the same. The only noticeable change we ﬁnd is that educational attain-
+ment among boys is different between the high- and low-treatment regions and marginally
+statistically signiﬁcant at the 10% level, yet the point estimate suggests that, if anything,
+educational attainment was higher in the low-treatment region in 1993, and thus the bias,
+if any, goes against our ﬁnding of increased educational attainment in the high-treatment
+region.
+
+differences in characteristics may lead to severe bias in our analysis, as
+they indicate that the two types of regions were distinct.
+
+As it turns out, we ﬁnd signal evidence that the treatment status
+balances almost all baseline characteristics. Namely, there is no statistical
+difference in: demographic characteristics among all individuals in the
+dataset (years of educational attainment, age, and the ratio of female in
+Panel A); quantity investments observed from parental characteristics
+among women aged 20s–40s in their reproductive history (number of
+pregnancies, number of births, number of births still alive, number of
+their children dying before age 1, number of their children dying be-
+tween aged 1 and 5 in Panel B); quality investments observed in educa-
+tional attainment among children aged 7 to 15 for all children and
+subdivided by gender in Panel C; household characteristics using all
+households in the dataset (household size, dependency ratio, and
+monthly income in Panel D); and community characteristics (the
+numbers of primary schools, banks, and regular markets; distance mea-
+sures to these facilities; except the numbers of secondary schools and post
+ofﬁces and population, which will be addressed later, in Panel E).
+
+Taken all together, these observations are consistent with the his-
+torical fact that the existence of health facilities under apartheid was
+based on an unknown, seemingly random rule determined by the white
+minority and unrelated to local characteristics, including demand or
+need, among black Africans. Therefore, these results provide no indica-
+tion that unobserved heterogeneities would threaten the internal validity
+of our econometric strategy.
+
+5. Empirical results
+
+5.1. Effect on child quality
+
+We start by investigating the effect of the policy change on later
+educational attainment for children aged 7 to 14. Panel A of Table 4
+reports the estimated impacts on educational attainment. All speciﬁca-
+tions include community and cohort ﬁxed effects. Column (1) presents
+the basic framework without any additional covariates, while Column (2)
+controls for the individual level variables (a female dummy and ﬁrst-born
+dummy), and household level variables (mother's education, mother's
+age, the average educational attainment among adult members, the
+number of adult members, and (log of) total monthly income); and Col-
+umn (3) additionally controls for initial community characteristics in
+1993 (the numbers of primary/secondary schools, post ofﬁces, banks,
+and regular markets in the community; distance to each of these facilities;
+and (log of) population) interacted with the post dummy.19
+
+The preferred estimate in Column (3) suggests that children in the
+high-treatment region had completed 0.503 more years of schooling
+than the corresponding cohorts in the low-treatment region.20 The
+stability in the point estimates across extended control variables bol-
+sters the view that the interaction term (“High  Post”) is not correlated
+with changes in these variables. Although this is not a formal test of
+exclusion restriction,
+the absence of signiﬁcant correlation with
+observable characteristics strongly suggests the absence of signiﬁcant
+correlation with unobservable variables (Altonji et al., 2005). It is
+worth noting that the point estimate increases after controlling for the
+initial community characteristics, suggesting that the bias associated
+with initial community characteristics, if any, goes against our ﬁnding.
+This is indeed consistent with the fact that post-apartheid policies
+focused on ensuring equality by allocating more resources
+to
+under-resourced communities.
+
+In order to highlight factors that potentially contributed to increased
+educational attainment, we examine changes in enrollment rate between
+1993 and 2004. Table A1 shows that the mean enrollment rate in 1993
+
+19 For each variable, we include a ﬂag that indicates the missing observations.
+20 Educational attainment on average increased by 0.640 years in the low-treatment
+region.
+
+38
+
+T. Ito, S. Tanaka
+
+Table 3
+Balancing test of baseline characteristics.
+
+Panel A: Demographic characteristics
+Educational attainment
+Age
+Female
+Panel B: Quantity investments
+Missing info. on pregnancy history
+# of pregnancies
+# of births
+# of births still alive
+Missing info. on children's deaths
+# died before 1 year
+# died between age 1 and 5
+Panel C: Quality investments
+Educational attainment (all)
+Educational attainment (boys)
+Educational attainment (girls)
+Panel D: Household characteristics
+Household size
+Dependency ratio
+Total monthly income
+Panel E: Community characteristics
+# of primary schools
+# of secondary schools
+# of post ofﬁces
+# of banks
+# of regular markets
+Distance to prim. school
+Distance to prim. sch.: Missing
+Distance to sec. school
+Distance to sec. sch.: Missing
+Distance to post ofﬁce
+Distance to bank
+Distance to regular market
+Population/1000
+
+Journal of Development Economics 130 (2018) 33–44
+
+Low-Treatment Region
+
+High-Treatment Region
+
+N
+
+(1)
+
+5,097
+5,099
+5,099
+
+1,080
+856
+856
+856
+856
+715
+715
+
+1,283
+664
+619
+
+648
+648
+648
+
+33
+33
+33
+33
+33
+33
+33
+32
+33
+33
+33
+33
+33
+
+Mean
+
+(2)
+
+4.655
+24.122
+0.522
+
+0.207
+2.954
+2.850
+2.451
+0.165
+0.231
+0.151
+
+3.387
+3.200
+3.586
+
+6.657
+0.344
+1,003
+
+1.515
+0.636
+0.091
+0.000
+0.152
+0.697
+0.000
+3.438
+0.030
+11.939
+23.121
+20.667
+26.329
+
+Std. Dev.
+
+(3)
+
+4.055
+18.281
+0.500
+
+0.407
+2.662
+2.626
+2.234
+0.369
+0.623
+0.539
+
+2.351
+2.241
+2.449
+
+3.752
+0.205
+1,017
+
+1.395
+0.549
+0.384
+0.000
+0.364
+2.158
+0.000
+6.294
+0.174
+11.827
+19.342
+20.174
+70.038
+
+N
+
+(4)
+
+2,743
+2,743
+2,743
+
+579
+463
+463
+463
+463
+390
+389
+
+697
+346
+351
+
+384
+384
+384
+
+23
+23
+23
+23
+23
+22
+23
+23
+23
+23
+23
+23
+23
+
+Mean
+
+(5)
+
+4.794
+23.991
+0.537
+
+0.200
+2.806
+2.698
+2.309
+0.158
+0.233
+0.111
+
+3.257
+3.052
+3.459
+
+6.292
+0.341
+1,011
+
+2.348
+1.087
+0.348
+0.130
+0.174
+0.682
+0.043
+1.087
+0.000
+13.696
+21.000
+18.304
+83.373
+
+Std. Dev.
+
+(6)
+
+4.060
+18.591
+0.499
+
+0.401
+2.591
+2.515
+2.134
+0.365
+0.649
+0.381
+
+2.303
+2.135
+2.443
+
+3.224
+0.201
+1,070
+
+2.442
+0.596
+0.487
+0.458
+0.491
+3.198
+0.209
+3.679
+0.000
+19.878
+18.986
+19.382
+122.831
+
+(2)–(5) Diff.
+
+(7)
+
+ 0.139
+0.131
+ 0.015
+
+0.007
+0.149
+0.153
+0.142
+0.007
+ 0.003
+0.041
+
+0.130
+0.148
+0.128
+
+0.366
+0.003
+ 8.051
+ 0.833
+ 0.451***
+ 0.257**
+ 0.130
+ 0.022
+0.015
+ 0.043
+2.351
+0.030
+ 1.756
+2.121
+2.362
+
+ 57.044**
+
+Notes: This table reports the number of observations, the mean, the standard deviation of the observable characteristics in the low-treatment region and the high-treatment region, using
+information from KIDS93. Column (7) presents the difference in means between the two types of the regions with statistical signiﬁcance indicated by the asterisk. The samples are all
+individuals in Panel A, women aged 20s–40s in Panel B, children aged 7 to 15 in Panel C, and all households and communities in Panel D and E, respectively. See Table I-1 in Online Appendix
+for the analogous ﬁgures for Panels B and C based on the sample used in the analysis.
+*** Signiﬁcant at the 1 percent level.
+** Signiﬁcant at the 5 percent level.
+
+was already high; 91% of our sample children were enrolled in school.
+The DD estimate in the second column using KIDS93 and KIDS04 shows
+
+Table 4
+Effect on child quantity and quality.
+
+Panel A: Child quality
+High  Post
+
+N
+R2
+Panel B: Child quantity
+High  Post
+
+N
+R2
+
+Community and cohort FE
+Individual and HH level variables
+Initial community characteristics
+
+(1)
+
+(2)
+
+(3)
+
+0.288
+
+(0.141)**
+
+3,616
+0.635
+ 0.287
+(0.109)**
+
+1,399
+0.140
+
+Y
+N
+N
+
+0.307
+
+(0.140)**
+
+3,616
+0.655
+ 0.258
+(0.109)**
+
+1,399
+0.165
+
+Y
+Y
+N
+
+0.503
+
+(0.204)**
+
+3,616
+0.658
+ 0.309
+(0.122)**
+
+1,399
+0.171
+
+Y
+Y
+Y
+
+Notes: This table reports only the coefﬁcient of interest based on equation (1), using KIDS93
+and KIDS04. In Panel A, we report the estimates from the quality analysis, in which the
+dependent variable is educational attainment measured by the number of years of
+completed education for the sample of children aged 7 to 14, whose age cohorts in KIDS04
+were fully exposed to the new health policy. In Panel B, we report the estimates from the
+quantity analysis, in which the dependent variable is the number of children aged 8 or less,
+whose age cohorts in KIDS04 represent post-reform fertility, for the sample of women aged
+31 to 45. All standard errors in the parentheses are clustered at the community level.
+** Signiﬁcant at the 5 percent level.
+
+that changes in enrollment rates were similar between the high- and low-
+treatment regions. This is not surprising in places like South Africa where
+the enrollment rate is already high. Rather, repetition is known to be the
+critical issue with attaining greater education among South African
+children (Lam et al., 2011). We wished to compare changes in the
+number of grades repeated before and after the policy reform, but such
+information is available only in KIDS04. Thus, we test the mean differ-
+ences between the high- and low-treatment regions in grade repetition in
+2004. The estimate suggests that children in the high-treatment region
+had a signiﬁcantly lower grade repetition. The evidence suggests, given
+the similarity in other educational aspects in ex-ante characteristics, that
+decreases in the number of grade repetition contributed to increased
+educational attainment.
+
+In what ways did parental investments in children's education in-
+crease? To answer this question, we explore changes in parental expen-
+ditures on education between 1993 and 2004. Table A2 suggests that
+total educational expenditures incurred by the parents of our sample of
+children increased by more than a third of the mean expenditures in
+1993. Exploring speciﬁc items reveals that expenditures on stationary
+and books and uniforms all increased signiﬁcantly. The increase in ex-
+penditures on school fees was economically substantial, indicating nearly
+a 65% increase, although the estimate is not statistically signiﬁcant. In
+contrast, we ﬁnd negligible effect on expenditures on school meals and
+transportation to school. The subtle changes in transportation expendi-
+ture potentially reﬂect the ﬁnding (shown later) that physical access to
+
+39
+
+T. Ito, S. Tanaka
+
+Journal of Development Economics 130 (2018) 33–44
+
+school did not systematically improve. Its important implication is that
+educational attainment improved not due to variation in availability of
+educational facilities, but rather due to, parental investments to oppor-
+tunities for schooling and equipment to learn.
+
+Overall, the ﬁnding is consistent with the predictions of the QQ
+tradeoff model; parents in areas with improved access to free healthcare
+increased their human capital investments in children.
+
+5.2. Effect on child quantity
+
+We now turn to the effect of the health policy reform on child
+quantity. Panel B of Table 4 reports the coefﬁcient of interest, based on
+the speciﬁcation in equation (1), using the number of children aged 8 or
+less as the dependent variable for mothers aged 31 to 45. This variable
+captures the overall fertility in the post-reform period between 1994
+and 2004. All
+community and cohort
+ﬁxed effects.
+
+speciﬁcations
+
+include
+
+Column (1) provides the estimate based on the basic speciﬁcation.
+It shows that the introduction of free health services had a statistically
+signiﬁcant negative impact on the number of children, indicating that
+mothers in the high-treatment region had approximately 0.287 fewer
+births relative to mothers in the low-treatment region over the
+period.21 The estimate is robust in terms of controlling for variation
+across individual and household characteristics in Column (2) and
+initial community characteristics in Column (3).22 The preferred es-
+timate in Column (3) suggests that the policy resulted in about a 32%
+reduction in fertility.23 The stable point estimates across speciﬁcations
+are again assuring the validity of our identiﬁcation assumption that
+the treatment status is not associated with these key determinants of
+child quantity.
+
+It is also worth noting that our estimates of the policy impact on both
+quality and quantity are likely to be understated if any, because our DD
+estimates measure changes in the outcomes in the high-treatment region
+relative to the low-treatment region, where children still had some
+exposure to the policy. Thus, the estimates would be greater if we could
+ﬁnd a pure control group among the same cohorts without any exposure
+to the health policy.
+
+5.3. Robustness checks on child quality effect
+
+Studies intended to evaluate social policies often suffer from bias due
+to two identiﬁcation issues: 1) that of inherent heterogeneities between
+the treated and controlled groups, leading the controlled group to pro-
+vide a false counterfactual for what would have happened to the treat-
+ment group without an intervention; and/or 2) that of erroneously
+picking up other effects through concurrent changes in society. In this
+subsection, we conduct falsiﬁcation tests and robustness checks with
+regard to the effects on child quality in an effort to explore these
+possibilities.
+
+Columns (1) and (2) of Table 5 Panel A report the results from the
+falsiﬁcation tests on child quality investments, focusing on the sample of
+children aged between 17 and 24 from KIDS93 and KIDS04. These co-
+horts from KIDS04 were more than 6 years old in 1994, rendering them
+ineligible for free health services. It turns out that none of the estimates is
+
+21 Note that on average fertility fell by 0.126 in the low-treatment region.
+22 Online Appendix II presents the fertility results using disaggregated age groups, which
+shows the immediate declines in fertility after the policy change.
+23 To put our estimate into the context, we compare our estimates to the effect of the
+Matlab program in Bangladesh, a door-to-door outreach maternal and child health and
+family planning program. The literature documents substantial reductions in fertility in
+the outreach program villages since the program initiation. For instance, Joshi and Schultz
+(2013) ﬁnd that women aged 35–54 years in the treated villages had on average 23%
+fewer children than those living in the comparison areas did, among which women aged
+45–49 achieved up to a 33% reduction. Phillips et al. (1982) also ﬁnd about a 25%
+reduction in overall fertility by the program effect. Our estimated effect of 27%–32% is in
+a similar range.
+
+Table 5
+Falsiﬁcation tests and robustness checks on child quality and quantity effect.
+
+Falsiﬁcation tests
+(DD)
+
+Robustness checks (DDD)
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+ 0.214
+(0.294)
+
+0.200
+(0.271)
+
+2,854
+0.290
+
+2,854
+0.297
+
+0.153
+(0.212)
+
+0.223
+(0.146)
+
+872
+0.208
+
+872
+0.240
+
+0.200
+(0.270)
+0.304
+(0.299)
+
+6,470
+0.744
+
+0.224
+(0.142)
+ 0.529
+(0.194)
+
+***
+2,258
+0.229
+
+0.880
+(0.292)
+
+***
+6,470
+0.744
+
+ 0.329
+(0.195)*
+
+2,258
+0.220
+
+Panel A: Child quality
+High  Post
+High  Post  Young
+
+N
+R2
+Panel B: Child quantity
+High  Post
+High  Post  Young
+
+N
+R2
+
+Y
+Y
+Y
+Y
+
+Y
+Y
+Y
+N
+
+Y
+Y
+Y
+N
+
+Y
+Y
+N
+N
+
+Community and cohort FE
+Individual and HH level variables
+Initial community characteristics
+Community FE  Post
+Notes: This table reports only the coefﬁcient of interest, the double interactions between the
+high-treatment region and the post dummies for the falsiﬁcation tests based on the DD
+framework in Columns (1) and (2), and the triple interactions between the high-treatment
+region, post, and the young cohort dummies for the robustness checks based on the DDD
+framework in Columns (3) and (4). In the falsiﬁcation tests, the dependent variables are
+educational attainment measured by the number of years of completed education for the
+sample of children aged 17 to 24 in Panel A and fertility measured by the number of
+children aged 11 to 19 for women aged 42 to 56 in Panel B, both of which are not subject to
+the health policy. In the robustness checks, the dependent variables and samples corre-
+spond to those used in the main analysis for the young cohorts and those used in the
+falsiﬁcation tests for the old cohorts. All standard errors in the parentheses are clustered at
+the community level.
+*** Signiﬁcant at the 1 percent level.
+* Signiﬁcant at the 10 percent level.
+
+statistically different from zero. This ﬁnding has several important
+implications.
+
+First, it suggests that parental behaviors with respect to investing in
+children's education would have been similar in the two regions without
+the health policy. Because even the observations from KIDS04 were not
+granted free access to health services due to the age eligibility rule, these
+estimates capture the evolution of human capital development among
+cohorts not affected by the health policy reform. This helps preclude bias
+arising from preexisting heterogeneities in education even without the
+MCH policy change.
+
+Second, it is important to keep in mind that the majority of these
+cohorts from KIDS04 were in school in 1994 and thus were exposed to
+various other changes, including educational reforms as described in
+Section 2, in the post-reform period. Even though the health policy had
+an impact on fertility, it is still possible that the changes in educational
+outcomes were driven by these other concurrent changes. However, our
+ﬁndings do not support such an assertion. The ﬁnding rather addresses a
+bias arising from post-treatment heterogeneities in trends for cohorts
+affected by concurrent changes.
+
+Lastly, the ﬁnding rules out the externality effect of parents having
+used some of the savings from reduced medical costs from their younger
+siblings to pay for older siblings' school fees. The absence of such evi-
+dence suggests that the income effect was negligible in our contexts.
+
+As a further robustness check of accounting for pre- and post-
+treatment bias, if any, in the falsiﬁcation tests in estimating the main
+child quality effect, we employ a difference-in-differences-in-differences
+(DDD) strategy, which essentially estimates the treatment effect of the
+policy reform by directly removing community-speciﬁc trends using
+counterfactual cohorts. The young cohort consists of the sample used in
+the main analysis, and the old cohort, which provides counterfactual
+
+40
+
+T. Ito, S. Tanaka
+
+Journal of Development Economics 130 (2018) 33–44
+
+trends, is the sample used in the falsiﬁcation tests.24 Column (3) uses the
+interaction between the high-treatment dummy and post dummy, whereas
+Column (4) uses the interaction between community dummies and the
+post dummy to capture more precise variation across communities.25 The
+parameter of interest is the coefﬁcient of the triple interaction between the
+high-treatment, post, and young cohort dummies, which is interpreted as
+the changes in the outcome variable among the young cohort after
+adjusting community-speciﬁc trends using the old cohort.
+
+The point estimate is slightly lower yet remain in the range of the
+main results in Column (3), while it enlarges and becomes statistically
+signiﬁcant at the 1% level in Column (4) when we capture variation
+across communities by ﬁxed effects.
+
+Overall, the ﬁndings on child quality in the main analysis are robust and
+remain signiﬁcant even after adjusting for heterogeneous trends across
+communities. Our evidence ﬁnds no indication that differential pre-existing
+or post-treatment trends confound such results, but rather evidence shows
+that the control group used in the main analysis serves as a valid comparison
+group, providing strong support to our identiﬁcation strategy.
+
+5.4. Robustness checks on child quantity effect
+
+In this subsection, we conduct the similar analysis as above with
+respect to child quantity effect. Columns (1) and (2) of Table 5 Panel B
+investigate whether preexisting trends in the outcome variables across
+communities confound the estimated effects on child quantity. The
+dependent variable is the number of children aged 11 to 19 for the
+sample of women aged 42 to 56. Because these children were all born
+before 1994 (even the observations from KIDS04), any differences in the
+estimates capture differential patterns in childbearing in the pre-reform
+period between the two regions. Note that these women had children
+aged 0 to 8 when they were 31–45 years old, thereby allowing an
+appropriate comparison with women used in the main analysis. The re-
+sults provide no evidence of statistical difference in fertility transition for
+these women. Rather, the point estimates are consistently positive,
+indicating that fertility was on a relatively increasing trend in the high-
+treatment region before the policy reform, and thus the bias, if any,
+goes against ﬁnding a reduction in fertility.
+
+Columns (3) and (4) of Table 5 Panel B present robustness evidence
+after directly controlling for pre-existing trends in the main analysis
+based on the DDD strategy. We use children aged 0 to 8 for women aged
+31 to 45 as the young cohort and children aged 11 to 19 for women aged
+42 to 56 as the old cohort. The ﬁnding suggests that the point estimates
+are nearly identical to the main results and remain statistically signiﬁ-
+cant. Consistent with the ﬁnding in the falsiﬁcation test, the coefﬁcient of
+the interaction between the high treatment dummy and post dummy
+suggests that there is no differential trend among the old cohort.
+
+Overall, the ﬁndings from the falsiﬁcation tests and robustness checks
+leave little doubt that preexisting trends do not confound the main
+ﬁndings, and that the signiﬁcant effects we ﬁnd in child quantity are
+indeed due to increased access to free health services.
+
+6. Alternative mechanisms
+
+In this section, we explore various alternative pathways that may
+account for the observed relationship between increased access to the
+free MCH services, reduced fertility, and increased educational attain-
+ment. Details are presented in Online Appendix III.
+
+24 In particular, the counterfactual cohorts considered here are children aged 17 to 24
+from KIDS93 and KIDS04. These cohorts present counterfactual evidence in terms of pre-
+treatment bias in education for cohorts not affected by the health policy as well as post-
+treatment bias in education for cohorts affected by concurrent changes in social pol-
+icies. The young cohorts are children aged 7 to 14. These cohorts observed in KIDS04 are
+all fully exposed to the new health policy.
+25 We additionally interact all characteristics and ﬁxed effects with the young cohort
+dummies to allow for their differential effects between the old and young cohorts.
+
+6.1. Does an educational reform explain increased educational
+attainment?
+
+The falsiﬁcation test above has already demonstrated no improvement
+in educational attainment among cohorts who were not subject to the
+health policy yet were subject to any reforms in the educational system,
+thereby refuting the role of educational reforms to explain observed im-
+provements in educational attainment. Here we consider additional pos-
+sibilities that the high-treatment region received more investments in
+education in the post-reform period, if these places were seen as more
+politically important or based on some other unknown factor that led to the
+establishment of health facilities in the ﬁrst place. In particular, we
+examine i) the coefﬁcients of the interaction term between initial school
+infrastructure and the post-reform dummy, ii) changes in school infra-
+structure between KIDS93 and KIDS98, and iii) quality improvements in
+educational services. The evidence consistently suggests that the high-
+treatment region was no more beneﬁted from educational reforms than
+the low-treatment region. The ﬁnding is consistent with Lam et al. (2011)
+who show limited improvements in the educational sector.
+
+6.2. Did any other policies affect price of child quantity?
+
+There were two welfare programs operant during this period. The old-
+age pension program was expanded for black Africans in the early 1990s.
+Yet the program should not confound the main quality and quantity ef-
+fects because we ﬁnd no similar fertility effects among cohorts born just
+before 1994 or educational effects among cohorts not subject to the
+health policy. The South African Child Support Grant started in 1998.
+The program should not affect the cohorts born before 1998, for whom
+we ﬁnd the fertility effects. Further, the program should induce higher
+fertility to receive greater transfers, if any. Methodologically speaking, in
+order for these programs to bias our estimates, their treatments would
+have had to be correlated with the availability of health facilities, which
+was not the case (Aguero et al., 2010; and Duﬂo, 2003). To the best of our
+knowledge, there is no other policy that meets such a criterion and that
+potentially affects the price of child quantity.
+
+6.3. Does migration cause selection bias?
+
+Migration was strictly regulated under apartheid, which provides one
+of the salient features in our research setting that highlights similar
+observed characteristics across communities in 1993.26 This does not,
+however, preclude a possibility that people migrated in the post-
+apartheid era. This might bias the main ﬁnding if households who
+sought for better access to healthcare services also had preferences to-
+ward low fertility and high child education.
+
+We address bias arising from such self-selection via migration by
+focusing only on the sample who have resided in the same community in
+2004 since 1993. While the evidence conﬁrms that the main ﬁnding is
+not driven by migrants, it also suggests that the actual impacts of the free
+health services, as estimated by pure treatment and control groups
+holding their residential locations ﬁxed, are likely to be greater than
+what is estimated in the main analysis.
+
+6.4. Does income effect explain fertility and educational outcomes?
+
+Changes in the price of child quantity have been widely shown to
+underlie demographic changes in various other settings. For example,
+increases in relative female wages are shown to lower fertility through an
+increase in the marginal costs of additional children. In our context, the
+health policy is likely to have had a direct effect on mothers, as the health
+policy targeted not only young children but also pregnant mothers. A
+
+26 Although the legal restrictions on migration were relaxed in late 1980s, the costs of
+migration remained high, resulting in little migration until 1994 (Dinkelman, 2017).
+
+41
+
+T. Ito, S. Tanaka
+
+Journal of Development Economics 130 (2018) 33–44
+
+concern is that improvements in health among mothers may have inde-
+pendent effects on both fertility and educational outcomes, causing a
+spurious correlation between fertility and education. For example,
+improved health status among mothers may lead to higher incomes or
+better opportunities for employment, which raises opportunity costs of
+child bearing, while income effect directly improves educational attain-
+ment among children. While the evidence from the falsiﬁcation test has
+already shown no quality effects among cohorts who should also be
+beneﬁted from such income effects, we additionally tested and ﬁnd no
+evidence that parental employment or income changed differentially
+between the two types of the regions.
+
+7. Conclusion
+
+In this paper, we examine the effect of abolishing user fees from
+health services on fertility and educational outcomes. We take advantage
+of the unique history of South Africa to study a set of communities that
+provide exogenous variation in the policy effect for individuals whose ex-
+ante characteristics are otherwise similar.
+
+By investigating the evolution of fertility and educational outcomes
+among children who were entitled to free health services, we ﬁnd evidence
+in support of the QQ tradeoff model: educational attainment improved, and
+fertility fell. Our ﬁndings are robust across various speciﬁcations. In addi-
+
+tion, we apply falsiﬁcation tests and explore alternative hypotheses to
+preclude the possibilities that preexisting trends in fertility and educational
+outcomes, educational reforms or other social policies, changes in parental
+income, migration, and mortality reductions could confound our results.
+These results pose an important policy implication for other devel-
+oping countries contemplating the abolition of user fees, suggesting that
+the beneﬁts of increased access to health services are not limited to
+improved short-term health status, as described in Tanaka (2014), but
+also extend to increased educational attainment and fertility reductions
+over time. Reduced fertility and increased educational attainment are
+considered to be two engines of economic growth, yet their causatio-
+n–either one of them affecting the other or any third factor generating
+both–remains an important question in the empirics of economic growth
+and demographic transition. Our study highlights that the MCH policy
+appears to be an effective mechanism for triggering the demographic
+transition and human capital development, in the sense that parents,
+even in developing countries, make rational fertility choices and educa-
+tional investments, as predicted by the QQ tradeoff model. This ﬁnding
+also discourages coercive population policies such as China's One Child
+Policy, which can lead to adverse societal side effects. Our ﬁndings
+suggest an alternative policy direction based on the fact that parents in
+developing countries successfully alter and adjust their fertility behavior
+in response to economic incentives.
+
+Appendix A
+
+Table A1
+Factors Contributing to Educational Attainment.
+
+Dependent variable
+
+Enrollment
+
+Num. of grades repeated
+
+N
+
+3,359
+
+1,559
+
+Mean
+
+0.906
+[0.292]
+0.550
+[0.831]
+
+Coeff.
+
+0.021
+(0.023)
+ 0.138
+(0.053)**
+
+Notes: The ﬁrst column represents the dependent variables. The second column reports the numbers of observations, and the third shows the mean values of respective dependent variables:
+enrollment in 1993 and the number of grades repeated in 2004. The last column reports the coefﬁcient of interest. For enrollment, it is the interaction term between the high-treatment region
+and post dummies using KIDS93 and KIDS04 (the regression also controls for community and cohort ﬁxed effects, individual and household level characteristics, and initial community
+characteristics). For the number of grades repeated, the sample is KIDS04, and the reported coefﬁcient is the mean difference between the high- and low-treatment regions. For both
+dependent variables, the samples correspond to the ones used in the main analysis, and the standard errors are clustered at the community level.
+** Signiﬁcant at the 5 percent level.
+
+Table A2
+Parental Expenditures on Education.
+
+Dependent variable
+
+Total expenditures
+
+School fees
+
+Stationary and books
+
+Uniform
+
+School meal
+
+Transportation
+
+Mean in 1993
+
+445.078
+[595.361]
+138.231
+[384.958]
+
+39.291
+[74.466]
+195.900
+[199.024]
+
+22.211
+
+[117.054]
+
+49.445
+
+[211.295]
+
+DD (Level)
+
+152.612
+(78.737)*
+
+90.169
+(56.605)
+15.697
+(11.736)
+48.223
+
+(23.157)**
+
+0.116
+(10.975)
+ 1.594
+(14.401)
+
+DD (Log)
+
+0.432
+(0.260)
+0.230
+(0.278)
+0.783
+
+(0.407)*
+
+0.294
+(0.336)
+ 0.013
+(0.300)
+0.017
+(0.195)
+
+Notes: This table reports the educational expenditures incurred by the parents of children examined in the quality analysis. The ﬁrst column represents the dependent variables, the second column
+reports the mean values of respective dependent variables in 1993, and the third column reports the coefﬁcients of the interaction term between the high-treatment region and a post dummy for
+KIDS04, when the dependent variables are in levels, and the last column shows the coefﬁcients of the interaction term when the dependent variables are in logs. All regressions control for
+community and cohort ﬁxed effects, individual and household level characteristics, and initial community characteristics, and the standard errors are clustered at the community level.
+** Signiﬁcant at the 5 percent level.
+* Signiﬁcant at the 10 percent level.
+
+Appendix B. Supplementary data
+
+Supplementary data related to this article can be found at https://doi.org/10.1016/j.jdeveco.2017.09.006.
+
+42
+
+T. Ito, S. Tanaka
+
+References
+
+Aaronson, Daniel, Lange, Fabian, Mazumder, Bhashkar, 2014. Fertility transitions along
+
+the extensive and intensive margin. Am. Econ. Rev. 104 (11), 3701–3724.
+
+Acs, Gregory, 1996. The impact of welfare on young mothers' subsequent childbearing
+
+decisions. J. Hum. Resour. 31 (4), 898–915.
+
+Aguero, Jorge M., Carter, Michael R., Woolard, Ingrid, 2010. The Impact of Unconditional
+
+Cast Transfers on Nutrition: the South African Child Support Grant. Unpublished.
+
+Altonji, Joseph G., Elder, Todd E., Taber, Christopher R., 2005. Selection on observed and
+unobserved variables: assessing the effectiveness of catholic schools. J. Political Econ.
+113, 151–184.
+
+Angrist, Joshua, Evans, William, 1998. Children and their parents' labor supply: evidence
+
+from exogenous variation in family size. Am. Econ. Rev. 88, 450–477.
+
+Angrist, Joshua, Lavy, Victor, Schlosser, Analia, 2005. New Evidence on the Causal Link
+
+between the Quantity and Quality of Children. NBER working paper no. 11835.
+
+Ashraf, Nava, Berry, James, Shapiro, Jesse, 2010. Can higher prices stimulate product
+
+Use? Evidence from a ﬁeld experiment in Zambia. Am. Econ. Rev. 100 (5),
+2383–2413.
+
+Becker, Gary S., 1960. “An Economic Analysis of Fertility,” in Demographic and Economic
+
+Change in Developed Countries. Princeton University Press, Princeton, NJ.
+
+Becker, Gary S., Lewis, H.G., 1973. On the interaction between the quantity and quality of
+
+children. J. Political Econ. 81 (2.2), S279–S288.
+
+Becker, Gary S., Tomes, Nigel, 1976. Child endowments and the quantity and quality of
+
+children. J. Political Econ. 84 (4), p. 2, S143–S162.
+
+Becker, Gary S., Murphy, Kevin M., Tamura, Robert, 1990. Human capital, fertility and
+
+economic growth. J. Political Econ. 98 (5.2), S12–S37.
+
+Bhorat, H., Oosthuizen, M., 2008. Determinants of grade 12 Pass rates in the post-
+
+apartheid South African schooling system. J. Afr. Econ. 18 (4), 634–666.
+
+Black, Sandra, Devereux, Paul J., Salvanes, Kvell G., 2005. The more the Merrier? The
+
+effect of family composition on Children's education. Q. J. Econ. 120, 669–700.
+
+Bleakley, Hoyt, 2007. Disease and development: evidence from hookworm eradication in
+
+the American South. Q. J. Econ. 122 (1), 73–117.
+
+Bleakley, Hoyt, Lange, Fabian, 2009. Chronic disease burden and the interaction of
+
+education, fertility, and growth. Rev. Econ. Stat. 91 (1), 52–65.
+
+Boyer, George R., 1989. Malthus was right after all: poor relief and birth rates in
+
+southeastern england. J. Political Econ. 97 (1), 93–114.
+
+Cameron, Robert, 1996. The reconstruction and development programme. J. Theor. Polit.
+
+8 (2), 283–294.
+
+Canning, David, Shultz, Paul T., 2012. The economic consequences of reproductive health
+
+and family planning. Lancet 380, 165–171.
+
+Community Agency for Social Enquiry (CASE), 1995. A National Household Survey of
+
+Health Inequalities in South Africa. Henry J. Kaiser Family Foundation, Washington,
+DC.
+
+Case, Anne, Deaton, Angus, 1999. School inputs and educational outcomes in South
+
+Africa. Q. J. Econ. 114 (3), 1047–1084.
+
+Cohen, Jessica, Dupas, Pascaline, 2010. Free distribution or cost-sharing? Evidence from a
+
+randomized malaria prevention experiment. Q. J. Econ. 125 (1), 1–45.
+
+Cohen, Alma, Dehejia, Rajeev, Romanov, Dmitri, 2013. Financial incentives and fertility.
+
+Rev. Econ. Stat. 95 (1), 1–20.
+
+Cooper, Diane, Morroni, Chelsea, Orner, Phyllis, Moodley, Jennifer, Harries, Jane,
+
+Cullingworth, Lee, Hoffman, Margaret, 2004. Ten years of democracy in South Africa:
+documenting transformation in reproductive health policy and status. Reprod. Health
+Matters 12 (24), 70–85.
+
+Crouch, L., Mabogoane, T., 1998. When the residuals matter more than the coefﬁcients:
+
+an educational perspective. Stud. Econ. Econ. 22 (2).
+
+Crouch, L., Mabogoane, T., 2001. No magic bullets, just tracer bullets: the role of learning
+
+resources, social advantage and education management in improving the
+performance of South African schools. Soc. Dyn. 27 (1), 60–78.
+
+Department of Health, 1998. Department of Health Achievements and Highlights of 1997.
+
+Department of Health, Pretoria.
+
+Dinkelman, Taryn, 2017. Long-run health repercussions of drought shocks: evidence from
+
+South African homelands. Econ. J. 127, 1906–1939.
+
+Duﬂo, Esther, 2003. Grandmothers and granddaughters: old-age pensions and
+
+intrahousehold allocation in South Africa. World Bank. Econ. Rev. 17 (1), 1–25.
+
+Fiske, E., Ladd, H., 2004. Elusive Equity: Education Reform in Post-apartheid. Brookings
+
+Institution, Washington, D.C.
+
+Foster, Andrew, Milusheva, Sveta, 2014. Effects of household recombination on
+
+retrospective evaluation: evidence from the Matlab health and family planning
+program. Mimeo.
+
+Galor, Oded, 2012. The demographic transition: causes and consequences. Cliometrica 6
+
+(1), 1–28.
+
+Galor, Oded, Weil, David N., 1996. The gender gap, fertility, and growth. Am. Econ. Rev.
+
+86 (3), 374–387.
+
+Galor, Oded, Weil, David N., 2000. Population, technology, and growth: from malthusian
+stagnation to the demographic transition and beyond. Am. Econ. Rev. 86, 375–387.
+Hanushek, Eric, 1992. The trade-off between child quantity and quality. J. Political Econ.
+
+100, 84–117.
+
+Hazan, Moshe, Berdugo, Binyamin, 2002. Child labor, fertility, and economic growth.
+
+Econ. J. 112, 810–828.
+
+Hoadley, U., 2007. The boundaries of care: education policy interventions for vulnerable
+children. In: Paper Presented at Education & Poverty Reduction Strategies: Issues of
+Policy Coherence Conference, 21–23 February, Pretoria.
+
+Journal of Development Economics 130 (2018) 33–44
+
+Holla, Alaka, Kremer, Michael, 2009. Pricing and Access: Lessons from Randomized
+
+Evaluations in Education and Health. Center for Global Development Working Paper
+158.
+
+J-PAL, April 2011. The price is wrong: charging small fees dramatically reduces access to
+
+important products for the poor. J-PAL Bull. https://www.povertyactionlab.org/
+sites/default/ﬁles/publications/The%20Price%20is%20Wrong.pdf.
+
+Joshi, Shareen, Schultz, Paul T., 2013. Family planning and Women's and Children's
+health: long-term consequences of an outreach program in Matlab, Bangladesh.
+Demography 50, 149–180.
+
+Kalemli-Ozcan, Sebnem, 2002. Does the mortality decline promote economic growth?
+
+J. Econ. Growth 7, 411–439.
+
+Kalemli-Ozcan, Sebnem, 2003. A stochastic model of mortality, fertility and human
+
+capital investment. J. Dev. Econ. 70 (1), 103–118.
+
+Kearney, Melissa, 2004. Is there an effect of incremental welfare beneﬁts on fertility
+
+Behavior? A look at the family cap. J. Hum. Resour. 39 (2), 295–325.
+
+Khan, Sultan, Lootvoet, Benoit, Vawda, Shahid, 2006. Transcending traditional forms of
+governance: prospects for Co-operative governance and service delivery in Durban's
+tribal Authority areas. Transformation 62, 84–117.
+
+Klasen, Stephan, 1997. Poverty, inequality and deprivation in South Africa: an analysis of
+
+the 1993 saldru survey. Soc. Indic. Res. 41, 51–94.
+
+Kremer, Michael, Miguel, Edward, 2007. The illusion of sustainability. Q. J. Econ. 112
+
+(3), 1007–1065.
+
+Lagarde, Mylene, Palmer, Natasha, 2008. The impact of user fees on health service
+
+utilization in low- and middle-income countries: how strong is the evidence? Bull.
+World Health Organ. 86 (11), 839–848.
+
+Lagerl€of, Nils-Petter, 2003. Gender equality and long-run growth. J. Econ. Growth 8 (4),
+
+403–426.
+
+Lam, David, Ardington, Cally, Leibbrandt, Murray, 2011. Schooling as a lottery: racial
+
+differences in school advancement in urban South Africa. J. Dev. Econ. 95 (2),
+121–136.
+
+Laroque, Guy, Salanie, Bernard, 2008. Does Fertility Respond to Financial Incentives?
+
+Columbia University, Department of Economics discussion paper 0708–15.
+
+Leibbrandt, Murray, Woolard, Ingrid, 1999. A comparison of poverty in South Africa's
+
+nine provinces. Dev. S. Afr. 16 (1), 37–54.
+
+May, Julian, Carter, Michael R., Haddad, Lawrence, Maluccio, John, 2000. KwaZulu-natal
+
+income dynamics study (KIDS) 1993-1998: a longitudinal household data set for
+South Africa policy analysis. Dev. South. Afr. 17 (4), 567–581.
+
+May, Julian, Jorge, Aguero, Carter, Michael R., Timaeus, Ian M., 2007. The KwaZulu-
+
+natal income dynamics study (KIDS) third wave: methods, ﬁrst ﬁndings and an
+agenda for future research. Dev. South. Afr. 24 (5), 629–648.
+
+McCoy, David, 1996. Free Health Care for Pregnant Women and Children under Six in
+
+South Africa: an Impact Assessment. Health Systems Trust, Durban.
+
+Milligan, Kevin, 2005. Subsidizing the stork: new evidence on tax incentives and fertility.
+
+Rev. Econ. Stat. 87 (3), 539–555.
+
+Mincer, Jacob, 1963. Market prices, opportunity costs, and income effects. In: Christ, Carl
+F., et al. (Eds.), Measurement in Economics: Studies in Mathematical Economics and
+Econometrics. Stanford University Press, Stanford, CA.
+
+Morestin, Florence, Ridde, Valery, 2009. The Abolition of User Fees for Health Services in
+
+Africa Lessons from the Literature. Universite de Montreal.
+
+Phillips, J.F., Stinson, W.S., Bhatia, S., Rahman, M., Chakraborty, J., 1982. The
+
+demographic impact of the family planning—health services Project in Matlab,
+Bangladesh. Stud. Fam. Plan. 13, 131–140.
+
+Rosenzweig, Mark R., Wolpin, Kenneth I., 1980. Testing the quantity-quality fertility
+model: the use of twins as a natural experiment. Econometrica 48 (1), 227–240.
+
+Rosenzweig, Mark R., Junsen, Zhang, 2009. Do population control policies induce more
+human capital investment? twins, birth weight and China’s “One Child Policy”. Rev.
+Econ. Studies 76 (3), 1149–1174.
+
+Schneider, Helen, Gilson, Lucy, 1999. The impact of free maternal health care in South
+Africa. In: Bere, Marge, Sundari Ravindran, T.K. (Eds.), Safe Motherhood Initiatives:
+Critical Issues. Blackwell Science, Oxford, pp. 93–101.
+
+Schultz, Paul T., 1985. Changing world prices, Women's wages, and the fertility
+
+transition: Sweden, 1860-1910. J. Political Econ. 93 (6), 1126–1154.
+
+Schultz, Paul T., 1986. The value and allocation of time in high-income countries:
+
+implications for fertility. Popul. Dev. Rev. 12, 87–108.
+
+Tamura, Robert, 2006. Human capital and economic development. J. Dev. Econ. 79,
+
+26–72.
+
+Tanaka, Shinsuke, 2014. Does abolishing user fees improve child health status? Evidence
+
+from Post-Apartheid South Africa. Am. Econ. J. Econ. Policy 6 (3), 282–312.
+
+UNICEF, 2015. Levels & Trends in Child Mortality: Report 2015.
+van der Berg, S., 2007. Apartheid's enduring legacy: inequalities in education. J. Afr.
+
+Econ. 16 (5), 849–880.
+
+van der Berg, S., Louw, M., 2007. Lessons Learnt from SACMEQ II: South African Student
+
+Performance in Regional Context. University of Stellenbosch Economic Working
+Papers 16/07.
+
+van der Berg, S., Shepherd, D., 2008. Signaling Performance: an Analysis of Continuous
+Assessment and Matriculation Examination Marks in South African Schools. Umalusi
+Council for Quality Assurance in General and Further Education and Training,
+Pretoria.
+
+Whittington, Leslie A., Alm, James, Elizabeth Peters, H., 1990. Fertility and the personal
+
+exemption: implicit pronatalist policy in the United States. Am. Econ. Rev. 30 (3),
+545–556.
+
+WHO, 2015. Trends in Maternal Mortality: 1990 to 2015.
+
+43
+
+T. Ito, S. Tanaka
+
+Journal of Development Economics 130 (2018) 33–44
+
+Wilkinson, David, Gouws, Eleanor, Sach, Marlene, Salim, S., Karim, Abdool, 2001.
+Effect of removing user fees on attendance for curative and preventive primary
+health care services in rural South Africa. Bull. World Health Organ. 79 (7),
+665–671.
+
+Yamauchi, Futoshi, 2005. Race, equity and public schools in post-apartheid South Africa:
+
+equal opportunity for all kids. Econ. Educ. Rev. 24, 213–233.
+
+Zhang, Junsen, Quan, Jason, Meerbergen, Peter van, 1994. The effect of tax-transfer
+
+policies on fertility in Canada 1921–1988. J. Hum. Resour. 29 (1), 181–201.
+
+44
+
+
