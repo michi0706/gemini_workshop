@@ -2,16 +2,20 @@ library(httr)
 library(jsonlite)
 
 parse_gemini_content <- function(data) {
- text <- data$candidates[[1]]$content$parts[[1]]$text
- json_patterns <- regmatches(text, gregexpr("```json\\n(.*?)\\n```", text, perl=TRUE))
- if(length(json_patterns[[1]]) > 0) {
-   parsed_jsons <- lapply(json_patterns[[1]], function(pattern) {
-     cleaned <- gsub("```json\\n|```", "", pattern)
-     fromJSON(cleaned)
-   })
-   return(toJSON(parsed_jsons, pretty=TRUE, auto_unbox=TRUE))
- }
- return(NULL)
+ tryCatch({
+   text <- data$candidates[[1]]$content$parts[[1]]$text
+   if(is.null(text) || nchar(text) == 0) return(NULL)
+   
+   json_patterns <- regmatches(text, gregexpr("```json\\n(.*?)\\n```", text, perl=TRUE))
+   if(length(json_patterns) > 0 && length(json_patterns[[1]]) > 0) {
+     parsed_jsons <- lapply(json_patterns[[1]], function(pattern) {
+       cleaned <- gsub("```json\\n|```", "", pattern)
+       fromJSON(cleaned)
+     })
+     return(toJSON(parsed_jsons, pretty=TRUE, auto_unbox=TRUE))
+   }
+   return(NULL)
+ }, error = function(e) return(NULL))
 }
 
 escape_quotes = function(txt, double_quotes=TRUE, single_quotes=TRUE) {
